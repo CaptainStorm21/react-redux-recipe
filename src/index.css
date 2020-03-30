@@ -1,0 +1,64 @@
+/* @import 'bootstrap/dist/css/bootstrap.min.css'; */
+
+
+@import url('https://fonts.googleapis.com/css?family=DM+Sans:400,500,700|Josefin+Sans:400,700|Pragati+Narrow:400,700|Satisfy&display=swap');
+/*
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Satisfy', cursive;
+font-family: 'Pragati Narrow', sans-serif;
+font-family: 'DM Sans', sans-serif;
+*/
+
+body {
+    background-color: 	#FFFAFA;
+    color: #2F4F4F;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+.body-format{
+    margin: 0 auto;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.div-border-top{
+    border-top: 3px solid rgb(233, 27, 27);
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+
+h1, h2, h3{
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+}
+
+h4, h5{
+    font-family: 'Satisfy', cursive;
+}
+
+.title{
+    font-family: 'Satisfy', cursive;
+    color: rgb(100, 4, 63);
+    letter-spacing: -1px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.card-top-bottom{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+}
+
+.image-size{
+    max-width: 100px;
+    display: inline-block;
+    
+}
+
+.ing-text{
+    display: inline-block;
+    text-align: left;
+    padding: 10px 10px 10px 10px;
+    width: 400px;
+}
